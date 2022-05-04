@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kntumi
 - 👀 I’m interested in Mobile Software Development
 - 🌱 I’m currently learning to code Android Apps using Kotlin
-- 📫 To reach me please send an email to the adress found on my bio
+- 📫 To reach me please send an email to the address found on my bio
 
 <!---
 kntumi/kntumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
